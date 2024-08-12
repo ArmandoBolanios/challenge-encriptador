@@ -5,7 +5,7 @@ Encriptador de palabras
 <li>Debe convertir una palabra para encriptarla; también devolver una palabra encriptada para su versión original.</li>
 <li>El botón copiar el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C</li>
 <br>
-<b>Detalles del programa:</b><br>
+
 PASO 1:
 El programa espera que escribamos nuestra palabra.
 ![Captura de pantalla_2024-08-12_08-54-14](https://github.com/user-attachments/assets/8160ec8f-0c30-4e81-b84a-92cefd438a89)
